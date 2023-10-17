@@ -66,7 +66,17 @@ Befolgen Sie die unten stehenden Schritte, um das Projekt zu installieren und ei
 
     Erstellen Sie eine `.env`-Datei im Stammverzeichnis Ihres Projekts und fügen Sie die erforderlichen Umgebungsvariablen hinzu.
 
-6. **Führen Sie das Projekt aus**
+   - database_URL: enthält die URL für die Datenbankverbindung.
+- NEXT_PUBLIC_S3_bucket_name: enthält den Namen des S3-Buckets, in dem die Dateien gespeichert werden sollen.
+- NEXT_PUBLIC_S3_access_key_id: enthält die Zugriffs-Schlüssel-ID für den S3-Bucket.
+- NEXT_PUBLIC_S3_secret_access_key: enthält den geheimen Zugriffsschlüssel für den S3-Bucket.
+- NEXT_PUBLIC_Clerk_frontend_api: enthält die Front-End-API-URL für Clerk, einen Dienst für die Benutzerauthentifizierung.
+- NEXT_PUBLIC_Clerk_sign_in_redirect: enthält die URL, zu der umgeleitet wird, nachdem sich ein Benutzer angemeldet hat.
+- NEXT_PUBLIC_Clerk_sign_up_redirect: enthält die URL, zu der umgeleitet wird, nachdem ein Benutzer sich registriert hat.
+- NEXT_PUBLIC_Clerk_signed_out_redirect: enthält die URL, zu der umgeleitet wird, nachdem sich ein Benutzer abgemeldet hat.
+- NEXT_PUBLIC_Clerk_verification_email_redirect: enthält die URL, zu der umgeleitet wird, nachdem ein Benutzer seine E-Mail-Adresse verifiziert hat.
+
+7. **Führen Sie das Projekt aus**
 
     Jetzt können Sie das Projekt mit dem folgenden Befehl ausführen:
 
