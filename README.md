@@ -1,11 +1,11 @@
 
 ![Build and Deploy Full Stack ChatPDF Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
 
-[Link to YouTube Tutorial](https://www.youtube.com/watch?v=bZFedu-0emE)
+
 
 # Überblick
 
-Willkommen beim "chatpdf-yt" Projekt, einer umfassenden Chat-Anwendung mit PDF-Integration. Dieses Projekt ist darauf ausgelegt, ein nahtloses Chat-Erlebnis zu bieten, bei dem Benutzer PDF-Dateien hochladen, Chats um sie herum erstellen und mit einem KI-Assistenten interagieren können. Der KI-Assistent verwendet die OpenAI-API, um Antworten basierend auf dem Chat-Kontext zu generieren. Die Anwendung enthält auch eine Abonnement-Funktion, bei der Benutzer sich anmelden können, um Premium-Funktionen zu nutzen. Der Abonnementprozess wird mit Stripe für Zahlungen und Webhooks für die Ereignisverarbeitung gehandhabt.
+Willkommen beim "chatpdf-af" Projekt, einer umfassenden Chat-Anwendung mit PDF-Integration. Dieses Projekt ist darauf ausgelegt, ein nahtloses Chat-Erlebnis zu bieten, bei dem Benutzer PDF-Dateien hochladen, Chats um sie herum erstellen und mit einem KI-Assistenten interagieren können. Der KI-Assistent verwendet die OpenAI-API, um Antworten basierend auf dem Chat-Kontext zu generieren. Die Anwendung enthält auch eine Abonnement-Funktion, bei der Benutzer sich anmelden können, um Premium-Funktionen zu nutzen. Der Abonnementprozess wird mit Stripe für Zahlungen und Webhooks für die Ereignisverarbeitung gehandhabt.
 
 # Technologien und Frameworks
 
@@ -45,7 +45,7 @@ Befolgen Sie die unten stehenden Schritte, um das Projekt zu installieren und ei
 2. **Navigieren Sie zum Projektverzeichnis**
 
    ```bash
-   cd chatpdf-yt
+   cd chatpdf-af
    ```
 
 3. **Installieren Sie Node.js**
